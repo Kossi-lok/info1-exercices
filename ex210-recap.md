@@ -2,16 +2,16 @@
 
 ## Q1
 Quel est l'affichage de `res1` ?
-
+`rest1 = 3`
 ## Q2
 Quel est l'affichage de la boucle `for` ?
-
+`0 7 14 21 28`
 ## Q3
 Quel est l'affichage de `res2` ?
-
+`7`
 ## Q4
 Quel est l'utilité du `printf`de `res2` ?
-
+`Elle permet d'éviter de faire une condition if() et d'afficher la valeur absolue`
 
 
 ```c
